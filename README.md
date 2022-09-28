@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PCalurie
-- 👀 I’m interested in buildin apps
+- 👀 I’m interested in building apps
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on developing AI projrcts
 - 📫 How to reach me hamflycephas@gmail.com
