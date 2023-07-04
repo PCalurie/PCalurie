@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @PCalurie
 - 👀 I am interested in designing and implementing code algorithms in building apps and software systems
-- 🌱 I am currently a student @ ALX Africa, uilding a strong foundation in programming with C, python, Javascript & CSS. I'm also looking into how i can integrate those skills in machine learning and AI
+- 🌱 I am currently a student @ ALX Africa, building a strong foundation in programming with C, python, Javascript & CSS. I'm also looking forward into how I can integrate these skills in machine learning and AI
 - 💞️ I'd like to collaborate in any interesting projests
 - 📫 You can reach me via email at peterkaruri1999@gmail.com
 
