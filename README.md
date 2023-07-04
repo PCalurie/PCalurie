@@ -1,8 +1,8 @@
 # 👋 Hi, I'm @PCalurie
-- 👀 I’m interested in designing and implementing algorithms, and building apps and software systems
-- 🌱 I’m currently a student at Alx Africa building a strong foundation in programming languages like C, python, JavaScript and CSS and in future I'll dive deeper into machine learning
-- 💞️ I’m looking forward to collaborate on developing any interesting projects and AI projects too
-- 📫 How to reach me peterkaruri1999@gmail.com
+- 👀 I am interested in designing and implementing code algorithms in building apps and software systems
+- 🌱 I am currently a student @ ALX Africa, uilding a strong foundation in programming with C, python, Javascript & CSS. I'm also looking into how i can integrate those skills in machine learning and AI
+- 💞️ I'd like to collaborate in any interesting projests
+- 📫 You can reach me via email at peterkaruri1999@gmail.com
 
 <a href="https://www.github.com/PCalurie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PCalurie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/your_tech_buddy" target="_blank" rel="noreferrer"><img
